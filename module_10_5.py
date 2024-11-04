@@ -12,6 +12,8 @@ def read_info(name: str):
             if not line:
                 break
 
+            all_data.append(line)
+
 
 
 
